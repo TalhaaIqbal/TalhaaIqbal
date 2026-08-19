@@ -9,16 +9,9 @@ I'm Qari Sahab aka Talha Iqbal from Pakistan. I'm a college student as well as a
 <hr>
   
   
-### ⚒️ Programming Languages 
-<img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
-<img width="35px" src="https://user-images.githubusercontent.com/88932788/149996775-8499085d-460d-4879-9c7a-1631cd64fa74.png" />
-<img width="35px" src="https://user-images.githubusercontent.com/88932788/149996447-64373ff2-b0a7-418a-b0b0-b00ec56a4587.png" />
-<img width="35px" src="https://user-images.githubusercontent.com/88932788/149996925-876afaee-2125-43fc-96d5-692a6a3761a0.png" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813909686449078353.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813909685542584321.png?v=1" />
-<img width="35px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148556370/original/df0d65f1c957ef7dd6a3e8f75b3965601819e4f4/host-your-discord-py-bot.jpg" />
+### ⚒️ Programming Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,django,mongodb,html,css,tailwind,git" />
 
 
 ### 🔖 My Statistics
