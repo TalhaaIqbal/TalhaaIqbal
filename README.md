@@ -17,7 +17,7 @@ Software Engineer from Pakistan, building full-stack apps and AI-powered systems
 
 
 ### 🔖 My Statistics
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=talhaaiqbal&custom_title=Talha%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=talhaaiqbal&custom_title=Talha%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=algolia)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=talhaaiqbal&custom_title=Talha%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=algolia&rank_icon=github)](https://github-stats-extended.vercel.app/api?username=talhaaiqbal&custom_title=Talha%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=algolia&rank_icon=github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=talhaaiqbal&layout=compact&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=talhaaiqbal&layout=compact&langs_count=4&theme=algolia)
 
