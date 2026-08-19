@@ -5,7 +5,9 @@
 </a>
   
 ### :bust_in_silhouette: About
-I'm Qari Sahab aka Talha Iqbal from Pakistan. I'm a college student as well as a software developer who is passionate about making awesome things like discord bots, websites, little projects etc. I like making things, especially things that help or entertain others and discover new stuffs to learn. I spend my free time on discord as well as gaming and making code more efficient.
+### 👋 Hi, I'm Talha Iqbal
+
+Software Engineer from Pakistan, building full-stack apps and AI-powered systems — from Discord bots to production-grade platforms. I like building things that are actually useful or fun to use, and I'm always chasing the next new stack or trick that makes the code cleaner and faster. When I'm not shipping something, I'm probably deep in a Discord server or a game, still thinking about how to make the code better.
 <hr>
   
   
