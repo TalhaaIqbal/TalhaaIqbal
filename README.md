@@ -1,9 +1,6 @@
 <div align = "center">
 
-<a href = "https://github.com/QariTheDev">
-<img src = "https://user-images.githubusercontent.com/88932788/149994948-90e78c2a-5a09-4f18-baf0-ac9179e07721.png"
-          width="450" 
-          height="450"
+<a href = "https://github.com/TalhaaIqbal">
 
 </a>
   
@@ -25,12 +22,11 @@ I'm Qari Sahab aka Talha Iqbal from Pakistan. I'm a college student as well as a
 
 
 ### 🔖 My Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=QariTheDev&theme=dark&hide_border=true)
-  
-![](https://github-readme-stats.vercel.app/api?username=QariTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k2t3y71nep9dpf9sgqal5bz7s&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
-   
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=talhaaiqbal&custom_title=Talha%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=talhaaiqbal&custom_title=Talha%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=algolia)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=talhaaiqbal&layout=compact&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=talhaaiqbal&layout=compact&langs_count=4&theme=algolia)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k2t3y71nep9dpf9sgqal5bz7s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e60ef1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=k2t3y71nep9dpf9sgqal5bz7s&redirect=true)
 
 <a href="https://www.facebook.com/talha.iqbal.3511/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/IamTalhahIqbal" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
